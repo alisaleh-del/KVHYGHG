@@ -1,0 +1,147 @@
+Updated App Design – Green School Map (Cairo) – Professional Version
+
+Description:
+
+Design a professional, modern, and highly interactive mobile and web application called “Green School Map”.
+
+The app visualizes pollution risks around a large number of schools and factories in Cairo, Egypt using advanced GIS maps.
+Users can log in using email and phone, filter schools by risk and distance, toggle map layers, reset the map, and explore detailed analytics.
+
+Target Users:
+Students, teachers, parents, urban planners, environmental researchers.
+
+Enhanced Features & Controls:
+
+Filter schools by pollution risk level
+
+Options: Low / Medium / High
+
+Multi-select supported
+
+Filter by distance from factories
+
+Adjustable range slider (0–20 km)
+
+Highlights only schools within the selected range
+
+Toggle Map Layers:
+
+Show / Hide schools (with varying sizes for more clarity if dense)
+
+Show / Hide factories (use distinct icons for small, medium, large factories)
+
+Optional layers: major roads, traffic congestion, waste disposal sites
+
+Reset Map Button
+
+Returns map to default view centered on Cairo
+
+Resets zoom, panning, and applied filters
+
+Enhanced Map Design:
+
+Professional GIS style with smooth zoom and pan
+
+Clustering of schools/factories when zoomed out for readability
+
+Interactive pop-ups with school/factory details on click
+
+Color-coded pollution levels with gradient scale for fine-grained visualization
+
+Increased Data Points:
+
+Hundreds of schools across all Cairo districts
+
+Major factories and industrial zones included
+
+Clear differentiation of high-density zones
+
+Main Screens:
+
+Login / Sign-up Screen
+
+Login with email: gannaali704@gmail.com
+
+Phone: 01014442041
+
+Password
+
+“Forgot password?” link
+
+App icon: leaf + school
+
+Home Screen (after login)
+
+Dashboard with key stats: number of schools by risk level, total factories
+
+Quick links to map and analytics
+
+Welcome message promoting green initiatives
+
+Interactive Map Screen (Professional GIS)
+
+Map centered on Cairo with district boundaries
+
+Schools & factories displayed as interactive markers
+
+Clustering for dense areas to avoid clutter
+
+Filters panel for risk level and distance from factories
+
+Toggle layers: schools, factories, roads, traffic, waste sites
+
+Reset Map button always visible
+
+Smooth animations and modern GIS color palette
+
+School / Factory Details Screen
+
+Name, district, location
+
+Pollution indicators (PM2.5, CO₂, Noise)
+
+Risk score meter
+
+Recommendations: “Plant trees nearby”, “Install air filters”, “Avoid outdoor activities during peak traffic”
+
+Option to view historical pollution trends
+
+Analytics & Charts Screen
+
+Pollution distribution by Cairo district
+
+Comparison between schools
+
+Trend charts over time
+
+Export reports (optional)
+
+Design Style:
+
+Professional GIS dashboard with modern, sleek UI
+
+Rounded cards, soft shadows, clear typography
+
+Smooth animations on hover and click
+
+Interactive pop-ups with detailed info
+
+Filters panel collapsible for large screens
+
+Color Palette:
+
+Green & Blue: safety and clean environment
+
+Gradient scales for pollution intensity
+
+White background for clarity
+
+Red/Orange for high-risk zones
+
+Overall Feel:
+
+Professional, modern, and educational
+
+Highly interactive and easy to navigate
+
+Focused on Cairo’s urban environment and green initiatives
